@@ -221,6 +221,13 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/coolcarp>
+            <img src=https://avatars.githubusercontent.com/u/76832747?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=coolcarp/>
+            <br />
+            <sub style="font-size:14px"><b>coolcarp</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/kaanelloed>
             <img src=https://avatars.githubusercontent.com/u/11068249?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=David/>
             <br />
@@ -241,6 +248,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>DarkCrypt</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/muhaaliss>
             <img src=https://avatars.githubusercontent.com/u/102979224?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Muha Aliss/>
@@ -248,8 +257,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Muha Aliss</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/sayyid5416>
             <img src=https://avatars.githubusercontent.com/u/78584556?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sayyid/>
@@ -285,6 +292,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>KalyaSc</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/Bnyro>
             <img src=https://avatars.githubusercontent.com/u/82752168?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bnyro/>
@@ -292,8 +301,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Bnyro</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/25huizengek1>
             <img src=https://avatars.githubusercontent.com/u/50515369?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=25huizengek1/>
@@ -323,6 +330,15 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/noob-mnar>
+            <img src=https://avatars.githubusercontent.com/u/171233045?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=noob-mnar/>
+            <br />
+            <sub style="font-size:14px"><b>noob-mnar</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/lrusso96>
             <img src=https://avatars.githubusercontent.com/u/26090639?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Luigi Russo/>
             <br />
@@ -336,20 +352,11 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Luca Schultz</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/davidsalido>
             <img src=https://avatars.githubusercontent.com/u/46091673?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=davidsalido/>
             <br />
             <sub style="font-size:14px"><b>davidsalido</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/coolcarp>
-            <img src=https://avatars.githubusercontent.com/u/76832747?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=coolcarp/>
-            <br />
-            <sub style="font-size:14px"><b>coolcarp</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
@@ -373,6 +380,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Sylvain Rio</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/0x5h31d0n>
             <img src=https://avatars.githubusercontent.com/u/63775224?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Sheldon Menezes/>
@@ -380,8 +389,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Sheldon Menezes</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/roklc>
             <img src=https://avatars.githubusercontent.com/u/142526268?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Rokic/>
@@ -417,6 +424,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Iscle</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/TheRedCyclops>
             <img src=https://avatars.githubusercontent.com/u/76230780?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=TheRedCyclops/>
