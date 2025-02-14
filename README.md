@@ -272,6 +272,13 @@ WARNING, the custom version is not an official release, download only if invited
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
+        <a href=https://github.com/noob-mnar>
+            <img src=https://avatars.githubusercontent.com/u/171233045?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=noob-mnar/>
+            <br />
+            <sub style="font-size:14px"><b>noob-mnar</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/bbyeen>
             <img src=https://avatars.githubusercontent.com/u/80675742?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Matt/>
             <br />
@@ -285,6 +292,8 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>Sharun</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/KalyaSc>
             <img src=https://avatars.githubusercontent.com/u/95717211?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=KalyaSc/>
@@ -292,8 +301,6 @@ WARNING, the custom version is not an official release, download only if invited
             <sub style="font-size:14px"><b>KalyaSc</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
         <a href=https://github.com/Bnyro>
             <img src=https://avatars.githubusercontent.com/u/82752168?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Bnyro/>
@@ -327,13 +334,6 @@ WARNING, the custom version is not an official release, download only if invited
             <img src=https://avatars.githubusercontent.com/u/8887756?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=offa/>
             <br />
             <sub style="font-size:14px"><b>offa</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 90.0; height: 90.0">
-        <a href=https://github.com/noob-mnar>
-            <img src=https://avatars.githubusercontent.com/u/171233045?v=4 width="60;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=noob-mnar/>
-            <br />
-            <sub style="font-size:14px"><b>noob-mnar</b></sub>
         </a>
     </td>
 </tr>
